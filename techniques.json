@@ -1,0 +1,18 @@
+{
+	"TestAttack": { 
+		"usableStance": "KNEELING",
+		"resultingStance": "PRONE",
+		"name": "Test Attacko",
+		"doesDamage": true,
+		"staminaCost": 6,
+		"powerMod": 5
+	},
+	"TestAttack2": { 
+		"usableStance": "KNEELING",
+		"resultingStance": "DOGGY",
+		"name": "Test Attacko",
+		"doesDamage": true,
+		"staminaCost": 6,
+		"powerMod": 5
+	}
+}
